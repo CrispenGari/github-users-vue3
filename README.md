@@ -11,7 +11,7 @@ This is a simple frontend application using `Vue3` that allows users to search f
 
 ## Demo
 
-<img src="" alt="demo">
+<img align="center" src="https://github.com/CrispenGari/github-users-vue3/blob/main/bandicam%202021-03-21%2015-33-13-122.jpg" alt="demo">
 
 - [URL](https://github-users-8c9ad.web.app/)
 
